@@ -1,0 +1,21 @@
+{
+  "INSTRUCTOR_NOTES.md": "79b20c798142028b1739b380799308ad9ce6c14753a96b8dbdab9bd0cf51e4f9",
+  "README.md": "1ad30d8b0d9f302d0ded759d5e29e375732049f5d8235c6ab0db1bc233a33f2c",
+  "VALIDATION.md": "14b06ea1595510060654f7ace3bb78010a24a14f0976896cc7413e79f8793f41",
+  "data/DATA_CARD.md": "ea10c0a1e22efbc978cf57514fdc59fc9f8020535cf58b95227a3cc41ec2ae4d",
+  "data/dev.jsonl": "fdee5acaaf196f58b0f5befaae568c4bed0800bd85309173c4ad1831d0d10354",
+  "data/new-record.txt": "954ca33f7228ac2f3c8dc9e4d9eb68714ebd629803f28f0fcd41a09168701fb7",
+  "data/test.jsonl": "b7c026624d211865f3ca3b48c77d2af787f88034af9ec4ba582860ef91d4f0a2",
+  "data/train.jsonl": "9f328f2a5a4172c93b30bc74c65bbc7fe980e2e87e0a309548fb1b9c215acb25",
+  "index.html": "39c5a6f399cbe94691614fd2d6a285c43bb4f63333cbeaad66a06bc4b281ca37",
+  "requirements.txt": "4b89192d6d2b2ffc8639f38a90f43bb51e6db30f87d47208f6a90efab92592cd",
+  "scripts/check_data.py": "7c073fe6a5b04d718d7634bab061f1d8c7ca092ae975962cd165559c047897fd",
+  "scripts/common.py": "e907b6a62d736c229e5dfb489d625ec7cc4046a2f2479f9be1e505637837ce43",
+  "scripts/compare.py": "5c6a65f4784c7cffbd50af7e75daef0b519ad812d3649256c23d49d84986b37e",
+  "scripts/evaluate.py": "5c05ce8baba9eb13c6d345a7547ff5a26796d19529f09ba6af9d519cdb627622",
+  "scripts/inventory.py": "9516a67b399e8300e80a8f69ad3e29c580f81f57a26fe598cf1f5a59a6957856",
+  "scripts/predict.py": "b42526a235fb372c47fd276fee874ff376c682e9a32eed237512745f9057ec2b",
+  "scripts/prepare_model.py": "adb613fea251b524e34e7a2944c8746725ae76c5f1dd9a45450110ca8563c2d7",
+  "scripts/train.py": "37f5dc1feca123467cfcb3f16f7ff49cc6e7c519d10d8761aee85ff01ca05bc6",
+  "tests/test_scoring.py": "9010b24cf52691961c76488e140e781e16aab660a84109488412e07b5b71dc0a"
+}

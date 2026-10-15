@@ -1,0 +1,15 @@
+# Local environments, downloads and generated training outputs
+.venv/
+__pycache__/
+*.py[cod]
+models/
+wheelhouse/
+runs/
+requirements-resolved.txt
+.env
+.env.*
+!.env.example
+# Local app state
+.agents/
+.codex/
+.aws/

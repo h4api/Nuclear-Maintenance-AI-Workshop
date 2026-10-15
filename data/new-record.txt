@@ -1,0 +1,4 @@
+Fictional Lotus Learning Station maintenance record DEMO-NEW-01.
+A documentation reviewer received a reactor protection system instrumentation maintenance package. The supporting inspection report is absent and independent review remains pending. This record does not establish equipment operability or authorize return to service.
+Department: Maintenance.
+Work order ID: not supplied.
